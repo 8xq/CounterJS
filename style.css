@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(35, 35, 35);
+    overflow: hidden;
+}
+.Title h1 { 
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    font-family: 'Space Mono', monospace;
+    padding: 1px;
+    margin: 1px;
+}
+.Title h6 { 
+    font-size: 18px;
+    color: white;
+    text-align: center;
+    font-family: 'Space Mono', monospace;
+    padding: 1px;
+    margin: 1px;
+}
+.Box {
+	overflow: hidden;
+	width: 30%;
+	height: 25%;
+	background: rgb(29, 29, 29);
+    border-radius: 15px;
+    min-width: 350px;
+    min-height: 140px;
+}
+.Box h1 {
+    font-family: 'Dosis', sans-serif;
+    color: white;
+    font-size: 38px;
+}
+.button {
+	background-color: rgb(86, 7, 231);
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	margin-top: 25px;
+	width: 30%;
+	font-family: 'Abel', sans-serif;
+    border-radius: 5px;
+    display:inline-block;
+	outline: none;
+    margin: auto;
+    padding: none;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(29, 29, 29);
+    color: white;
+    text-align: center;
+    fill: white;
+}
