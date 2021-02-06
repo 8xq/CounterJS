@@ -4,7 +4,7 @@ This is a very simple JS project that allows you to increase / decrease a counte
 This project was just for learning Javascript more <3
 ```
 
-![Alt text](https://i.imgur.com/caAj5Rc.png "Example")
+![Alt text](https://i.imgur.com/NW5ZWIR.png "Example")
 
 
 
